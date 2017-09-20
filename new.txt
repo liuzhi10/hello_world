@@ -6,6 +6,13 @@ add something new
 >>>>>>> 98e966569a51d4130a7ffabcef7e140624a35d01
 =======
 fdsfsg df 
+<<<<<<< HEAD
 >>>>>>> 80f304ffa04917bf81baff9a3fd2e2290a38620a
 asaasds asdad
 this is the second new line
+=======
+dasdasf dsa fdas
+this is a new line
+>>>>>>> 0e9edb4c3c42753e1df7798a3ea23dc593531293
+dasdf asdfa s
+what do you want
