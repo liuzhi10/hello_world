@@ -2,4 +2,10 @@
 add somethind
 =======
 add something new
+<<<<<<< HEAD
 >>>>>>> 98e966569a51d4130a7ffabcef7e140624a35d01
+=======
+fdsfsg df 
+>>>>>>> 80f304ffa04917bf81baff9a3fd2e2290a38620a
+asaasds asdad
+this is the second new line
