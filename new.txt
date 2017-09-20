@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 add somethind
+=======
+add something new
+>>>>>>> 98e966569a51d4130a7ffabcef7e140624a35d01
